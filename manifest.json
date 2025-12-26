@@ -1,0 +1,21 @@
+{
+  "name": "Anna Rozen Golzman - Nail & Beauty Services",
+  "short_name": "Anna Rozen",
+  "description": "Licensed top master in Russian Manicure, Pedicure, Lashes & Brows Lamination in Coral Springs, Parkland & Boca Raton, FL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/avatar.jpg",
+      "sizes": "300x300",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["beauty", "lifestyle", "health"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
