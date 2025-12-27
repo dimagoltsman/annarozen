@@ -9,19 +9,19 @@
 
     <!-- Images for SEO -->
     <image:image>
-      <image:loc>https://annarozen.com/images/avatar.jpg</image:loc>
+      <image:loc>https://annarozen.com/images/avatar.webp</image:loc>
       <image:title>Anna Rozen Golzman - Licensed Top Master</image:title>
       <image:caption>Professional nail and beauty artist Anna Rozen Golzman</image:caption>
     </image:image>
 
     <image:image>
-      <image:loc>https://annarozen.com/images/manicure/1.jpg</image:loc>
+      <image:loc>https://annarozen.com/images/manicure/1.webp</image:loc>
       <image:title>Russian Manicure by Anna Rozen Golzman</image:title>
       <image:caption>Professional Russian manicure work</image:caption>
     </image:image>
 
     <image:image>
-      <image:loc>https://annarozen.com/images/lashes/1.jpg</image:loc>
+      <image:loc>https://annarozen.com/images/lashes/1.webp</image:loc>
       <image:title>Lash Lamination by Anna Rozen Golzman</image:title>
       <image:caption>Professional lash and brow lamination</image:caption>
     </image:image>
