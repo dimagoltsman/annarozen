@@ -92,6 +92,27 @@ body {
     margin: 8px 0;
 }
 
+.highlight-special {
+    font-size: 17px !important;
+    color: #1a1a1a !important;
+    font-weight: 600;
+    margin: 10px 0 !important;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+.highlight-special strong {
+    font-size: 18px;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.03);
+    }
+}
+
 /* Divider */
 .divider {
     display: flex;
