@@ -197,6 +197,11 @@ body {
     color: white;
 }
 
+.my-location {
+    background: #e53935;
+    color: white;
+}
+
 .social-separator {
     width: 100%;
     height: 1px;
