@@ -1,4 +1,4 @@
-// Anna Rozen Golzman — site behaviour
+// Anna Rozen — site behaviour
 // Galleries and the price toggle are pure CSS. This file only handles
 // the sticky booking bar and the #policy deep link.
 (function () {
