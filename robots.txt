@@ -1,10 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /private/
 
-# Sitemap location
-Sitemap: https://annarozen.com/sitemap.xml
-
-# Crawl-delay to be nice to servers
-Crawl-delay: 1
+Sitemap: https://www.annarozen.com/sitemap.xml

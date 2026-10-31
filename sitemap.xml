@@ -2,28 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://annarozen.com/</loc>
+    <loc>https://www.annarozen.com/</loc>
     <lastmod>2026-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-
-    <!-- Images for SEO -->
     <image:image>
-      <image:loc>https://annarozen.com/images/avatar.webp</image:loc>
-      <image:title>Anna Rozen Golzman - Licensed Top Master</image:title>
-      <image:caption>Professional nail and beauty artist Anna Rozen Golzman</image:caption>
+      <image:loc>https://www.annarozen.com/images/manicure/top.webp</image:loc>
+      <image:title>Pink French manicure by Anna Rozen Golzman</image:title>
     </image:image>
-
     <image:image>
-      <image:loc>https://annarozen.com/images/manicure/1.webp</image:loc>
-      <image:title>Russian Manicure by Anna Rozen Golzman</image:title>
-      <image:caption>Professional Russian manicure work</image:caption>
+      <image:loc>https://www.annarozen.com/images/avatar.webp</image:loc>
+      <image:title>Anna Rozen Golzman, licensed nail and lash master in Coral Springs, FL</image:title>
     </image:image>
-
     <image:image>
-      <image:loc>https://annarozen.com/images/lashes/1.webp</image:loc>
-      <image:title>Lash Lamination by Anna Rozen Golzman</image:title>
-      <image:caption>Professional lash and brow lamination</image:caption>
+      <image:loc>https://www.annarozen.com/images/manicure/2.webp</image:loc>
+      <image:title>Blue wave nail art on a Russian manicure</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.annarozen.com/images/lashes/7.webp</image:loc>
+      <image:title>Laminated lashes and shaped brows</image:title>
     </image:image>
   </url>
 </urlset>
