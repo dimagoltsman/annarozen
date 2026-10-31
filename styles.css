@@ -562,10 +562,24 @@ fieldset {
     margin-bottom: 18px;
 }
 
+.find__address {
+    margin-top: 14px;
+    font-style: normal;
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
 .find__text {
-    margin-top: 10px;
+    margin-top: 6px;
     max-width: var(--measure);
     color: var(--ink-soft);
+}
+
+.find__actions {
+    display: grid;
+    gap: 10px;
+    margin-top: 22px;
 }
 
 .link-list {
@@ -914,6 +928,15 @@ fieldset {
 
     .link-list {
         margin-top: 0;
+    }
+
+    .find__actions {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .find__actions .btn--primary {
+        flex: 0 0 auto;
     }
 
     .policy {
