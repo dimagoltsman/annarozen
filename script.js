@@ -189,5 +189,18 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(section);
     });
 
+    // Open the appointment policy when linked directly (index.html#policy)
+    const policySection = document.getElementById('policy');
+    const policyDetails = policySection && policySection.querySelector('details');
+
+    function openPolicyFromHash() {
+        if (!policyDetails || window.location.hash !== '#policy') return;
+        policyDetails.open = true;
+        policySection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    window.addEventListener('hashchange', openPolicyFromHash);
+    openPolicyFromHash();
+
     console.log('Anna Rozen Golzman - Portfolio with Carousels loaded! 💅✨');
 });

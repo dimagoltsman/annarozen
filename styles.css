@@ -302,6 +302,7 @@ body {
 /* Appointment Policy */
 .policy-section {
     margin: 40px 0;
+    scroll-margin-top: 20px;
 }
 
 .policy {
